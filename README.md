@@ -2,7 +2,7 @@
 
 # Home
 
-> [ubuntu-iso-builder-import-pacstall-gnome-shell-layout-maccity](https://samwhelp.github.io/ubuntu-iso-builder-import-pacstall-gnome-shell-layout-maccity/)
+> [ubuntu-iso-builder-import-pacstall-gnome-shell-layout-maccity](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-gnome-shell-layout-maccity)
 
 | Project |
 | ------- |
@@ -10,7 +10,7 @@
 | `+` |
 | [ubuntu-iso-builder-import-pacstall-gnome-shell-layout-maccity](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-gnome-shell-layout-maccity) |
 | `=` |
-| [ubuntu-iso-builder-include-pacstall-gnome-shell-attach-themes](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-gnome-shell-attach-themes) |
+| [ubuntu-iso-builder-include-pacstall-gnome-shell-layout-maccity](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-gnome-shell-layout-maccity) |
 
 
 
